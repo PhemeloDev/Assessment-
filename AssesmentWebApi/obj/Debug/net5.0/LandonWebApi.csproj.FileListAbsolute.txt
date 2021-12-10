@@ -1,0 +1,95 @@
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\appsettings.json
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.exe
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.deps.json
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.runtimeconfig.json
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.runtimeconfig.dev.json
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\ref\LandonWebApi.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\LandonWebApi.pdb
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.AssemblyReference.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.AssemblyInfoInputs.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.AssemblyInfo.cs
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.CoreCompileInputs.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\staticwebassets\LandonWebApi.StaticWebAssets.Manifest.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\staticwebassets\LandonWebApi.StaticWebAssets.xml
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\scopedcss\bundle\LandonWebApi.styles.css
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.RazorTargetAssemblyInfo.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\ref\LandonWebApi.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.pdb
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.genruntimeconfig.cache
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Tutorials\Core Apis\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.CopyComplete
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.exe
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.deps.json
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.runtimeconfig.json
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.runtimeconfig.dev.json
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\ref\LandonWebApi.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\LandonWebApi.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.AssemblyInfo.cs
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\staticwebassets\LandonWebApi.StaticWebAssets.Manifest.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\staticwebassets\LandonWebApi.StaticWebAssets.xml
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\scopedcss\bundle\LandonWebApi.styles.css
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.csproj.CopyComplete
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\ref\LandonWebApi.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\obj\Debug\net5.0\LandonWebApi.genruntimeconfig.cache
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\LandonWebApi\LandonWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
