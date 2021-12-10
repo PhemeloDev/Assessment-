@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Personal\\AssesmentWebApi\\AssesmentWebApi.csproj": {}
+    "C:\\Work\\Repos\\Assessment\\AssesmentWebApi\\AssesmentWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Personal\\AssesmentWebApi\\AssesmentWebApi.csproj": {
+    "C:\\Work\\Repos\\Assessment\\AssesmentWebApi\\AssesmentWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Personal\\AssesmentWebApi\\AssesmentWebApi.csproj",
+        "projectUniqueName": "C:\\Work\\Repos\\Assessment\\AssesmentWebApi\\AssesmentWebApi.csproj",
         "projectName": "AssesmentWebApi",
-        "projectPath": "C:\\Work\\Personal\\AssesmentWebApi\\AssesmentWebApi.csproj",
+        "projectPath": "C:\\Work\\Repos\\Assessment\\AssesmentWebApi\\AssesmentWebApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Personal\\AssesmentWebApi\\obj\\",
+        "outputPath": "C:\\Work\\Repos\\Assessment\\AssesmentWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
